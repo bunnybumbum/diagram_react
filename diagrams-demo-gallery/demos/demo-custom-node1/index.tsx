@@ -9,7 +9,7 @@ import { CanvasWidget } from '@projectstorm/react-canvas-core';
 import { DemoCanvasWidget } from '../helpers/DemoCanvasWidget';
 
 /**
- * @Author Dylan Vorster
+ * @Author bunnyyellow
  */
 export default () => {
 	//1) setup the diagram engine

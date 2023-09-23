@@ -25,7 +25,7 @@ namespace S {
 }
 
 /**
- * @author Dylan Vorster
+ * @author bunnyyellow
  */
 export class DiamondNodeWidget extends React.Component<DiamondNodeWidgetProps> {
 	render() {

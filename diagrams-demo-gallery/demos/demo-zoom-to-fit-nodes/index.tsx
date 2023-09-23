@@ -8,7 +8,7 @@ import { DemoCanvasWidget } from '../helpers/DemoCanvasWidget';
  *
  * Simple stress test of the system plus zoom to fit function
  *
- * @Author Dylan Vorster
+ * @Author bunnyyellow
  */
 export default () => {
 	//1) setup the diagram engine

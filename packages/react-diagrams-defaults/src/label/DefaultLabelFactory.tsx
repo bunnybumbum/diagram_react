@@ -5,7 +5,7 @@ import { AbstractReactFactory } from '@projectstorm/react-canvas-core';
 import { DiagramEngine } from '@projectstorm/react-diagrams-core';
 
 /**
- * @author Dylan Vorster
+ * @author bunnyyellow
  */
 export class DefaultLabelFactory extends AbstractReactFactory<DefaultLabelModel, DiagramEngine> {
 	constructor() {

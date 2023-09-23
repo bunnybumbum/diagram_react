@@ -8,7 +8,7 @@ import { DemoCanvasWidget } from '../helpers/DemoCanvasWidget';
  * Simple stress test of the system, shows that it can handle many nodes, and
  * retain good performance
  *
- * @Author Dylan Vorster
+ * @Author bunnyyellow
  */
 export default () => {
 	//1) setup the diagram engine
