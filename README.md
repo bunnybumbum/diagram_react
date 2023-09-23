@@ -22,7 +22,7 @@ A flow & process orientated diagramming library inspired by **Blender**, **Labvi
 
 ## Gallery
 
-Example implementation using custom models: \(Dylan's personal code\)
+Example implementation using custom models: \(bunnyyellow's personal code\)
 
 ![Personal Project](.gitbook/assets/example1.jpg)
 ![](.gitbook/assets/example2.jpg)
